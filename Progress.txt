@@ -1,0 +1,6 @@
+Latest progress:
+we created the UI
+we implemented the megaminx visualization
+the problem right now is that it wont open the local host properly
+
+
