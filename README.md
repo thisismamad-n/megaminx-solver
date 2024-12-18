@@ -2,6 +2,8 @@
 
 An interactive 3D Megaminx puzzle solver built with React and Three.js.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thisismamad-n/megaminx-solver)
+
 ## Features
 
 - 3D visualization of a Megaminx puzzle
